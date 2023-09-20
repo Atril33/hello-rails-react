@@ -3,11 +3,7 @@ import { createAsyncThunk, createSlice } from "@reduxjs/toolkit";
 export const greetingDataFetch = createAsyncThunk('greeing', async () => {
     const response = await fetch ('/messages');
     const result = await response.json();
-
-   /*  const finalData = result.map((item) => ({
-        name: item.greeting
-      })); */
-
+    
       return result;
 });
 
