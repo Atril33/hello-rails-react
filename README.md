@@ -1,7 +1,4 @@
 <img src="https://github.com/Atril33/rails_blog_app/blob/dev/my-logo.png" width="100px" />
-<div align="center">
-  <img src="https://github.com/Atril33/budget-app/blob/logic-done/Preview%20Image.png" />
-  </div>
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
@@ -10,7 +7,6 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-    - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -53,7 +49,6 @@
 - [x] Setup and controllers
 - [x] Controllers specs
 - [x] React & Redux
-- [x] 
 
 <p align='right'>(<a href='#readme-top'>back to top</a>)</p>
 
