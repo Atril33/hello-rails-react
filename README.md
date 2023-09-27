@@ -101,6 +101,7 @@ To run the project, open your project in your terminal
 ```sh
  rails server
 ```
+To populate database with greeting run rails db:seed
 ### Run Tests
 
 ```sh
